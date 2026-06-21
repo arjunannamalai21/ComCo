@@ -1,0 +1,34 @@
+num_adults,num_children,event_type,meal_type,cuisine_type,consumption_factor
+100,20,Wedding,Lunch,South Indian,1.20
+50,30,Birthday,Dinner,American,0.95
+200,40,Corporate,Lunch,North Indian,1.05
+80,15,Festival,Lunch,South Indian,1.10
+120,10,Engagement,Dinner,North Indian,1.00
+40,25,Birthday,Lunch,American,0.90
+300,60,Temple Festival,Lunch,South Indian,1.25
+150,20,Corporate,Dinner,American,1.00
+70,12,Housewarming,Lunch,South Indian,1.02
+250,50,Wedding,Dinner,North Indian,1.18
+90,40,Festival,Dinner,American,0.95
+110,15,Engagement,Lunch,South Indian,1.05
+180,30,Wedding,Lunch,North Indian,1.12
+60,10,Housewarming,Dinner,North Indian,0.98
+400,100,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+400,100,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+96,24,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+400,100,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+400,100,Wedding,Lunch,SouthIndian,1.0
+80,20,Wedding,Lunch,SouthIndian,1.0
+456,114,Wedding,Lunch,SouthIndian,1.0
+456,114,Wedding,Lunch,SouthIndian,1.0
+96,24,Wedding,Lunch,SouthIndian,1.0
